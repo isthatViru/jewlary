@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Gold Diamond Ring",
+      "price": 4999,
+    "image": "/media/ring1.jpg",
+
+      "description": "A beautiful handcrafted gold ring with a sparkling diamond."
+    },
+    {
+      "id": 2,
+      "name": "Elegant Pearl Necklace",
+      "price": 7499,
+      "image": "/media/necklace1.jpg",
+      "description": "Classic elegance in this finely crafted pearl necklace."
+    },
+    {
+      "id": 3,
+      "name": "Silver Stud Earrings",
+      "price": 1999,
+      "image": "/media/earring1.jpg",
+      "description": "Minimalist silver studs perfect for daily wear."
+    },
+    {
+      "id": 4,
+      "name": "Rose Gold Bracelet",
+      "price": 3499,
+      "image": "/images/bracelet1.jpg",
+      "description": "Delicate rose gold bracelet with intricate detailing."
+    },
+    {
+      "id": 5,
+      "name": "Platinum Couple Rings",
+      "price": 9999,
+      "image": "/images/couplering.jpg",
+      "description": "Symbol of love – matching platinum rings for couples."
+    }
+  ]
+}
